@@ -34,7 +34,7 @@ cd kelvinfon-portfolio
 ```plaintext
 kelvinfon-portfolio/
 │
-├── index.html        # Landing page (About, Skills, Resume, Projects, Contact)
+├── index.js        # Landing page (About, Skills, Resume, Projects, Contact)
 ├── css/
 │   └── style.css     # Custom styles
 ├── js/

@@ -1,0 +1,23 @@
+{
+  "name": "@mykefon/kf-portfolio",
+  "version": "1.0.0",
+  "description": "packaging",
+  "homepage": "https://github.com/mykefon/kf-portfolio#readme",
+  "bugs": {
+    "url": "https://github.com/mykefon/kf-portfolio/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mykefon/kf-portfolio.git"
+  },
+  "license": "MIT",
+  "author": "kelvin fon",
+  "type": "commonjs",
+  "main": "index.js",
+  "publishConfig": {
+    "@mykefon:registry": "https://npm.pkg.github.com"
+  },
+  "scripts": {
+    "test": "exit 0"
+  }
+}
